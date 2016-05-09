@@ -17,7 +17,10 @@ A reference point for the top tutorials regarding React Native backed by Meteor.
 - [Google OAuth](http://blog.differential.com/meteor-google-oauth-from-react-native/)
 - [Facebook OAuth](https://medium.com/@spencer_carli/react-native-meteor-oauth-with-facebook-3d1346d7cdb7#.mo4dh027o)
 
-## Other
+## Opinion
+- [Why Meteor is the Perfect Backend for React Native](https://medium.com/@spencer_carli/why-meteor-is-the-perfect-backend-for-react-native-4c8a776726c2#.yxedfy5o0)
+
+## General React Native
 
 - [Sharing Code between Android and iOS](http://blog.differential.com/sharing-code-between-android-and-ios-in-react-native/)
 - [Intro to Debugging (iOS and Android)](http://blog.differential.com/intro-to-debugging-react-native-ios-and-android/)
