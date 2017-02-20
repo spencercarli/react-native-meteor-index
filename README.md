@@ -1,6 +1,6 @@
 # React Native Meteor Index
 
-A reference point for the top tutorials regarding React Native backed by Meteor. If you would like to be emailed as new articles are written please sign up [here](http://eepurl.com/bQbX1r).
+A reference point for the top tutorials regarding React Native backed by Meteor. If you would like to be emailed as new articles are written please sign up [here](http://www.handlebarlabs.com/email-list).
 
 ## Getting Started
 
